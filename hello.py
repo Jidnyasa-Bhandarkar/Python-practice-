@@ -1,5 +1,3 @@
-# Python-practice-
-#My python practice and learning journey 
 # My First Python Program
 
 name = input("Enter your name: ")
